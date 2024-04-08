@@ -1,0 +1,10 @@
+{
+	"phone": {
+		"versions": "1.0",
+		"path": "https://96sdf4ge.github.io/fdss/wa/openMore/wsLogin_phone.apk"
+	},
+	"emulator": {
+		"versions": "1.0",
+		"path": "https://96sdf4ge.github.io/fdss/wa/openMore/wsLogin_emulator.apk"
+	}
+}
