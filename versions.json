@@ -1,12 +1,12 @@
 {
 	"n": {
-		"versions": "2.24.10.75",
-		"md5": "c3bf6d15c855095a7b5b5e28f9dcb47c",
+		"versions": "2.24.12.73",
+		"md5": "b71b9e1c897f8034e41a4e275631bf11",
 		"path": "https://96sdf4ge.github.io/fdss/app/whatsapp-messenger.apk"
 	},
 	"b": {
-		"versions": "2.24.11.80",
-		"md5": "d2b6857e17bbfb492bed2c36ad2f46c2",
+		"versions": "2.24.11.83",
+		"md5": "f8868272b1c0d06a26f92cc18c4001cc",
 		"path": "https://96sdf4ge.github.io/fdss/app/whatsapp-business.apk"
 	}
 }
