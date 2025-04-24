@@ -1,12 +1,12 @@
 {
 	"phone": {
 		"versions": "1.8",
-		"md5": "92ee4f053bc45f9bde8dacda13a89422",
+		"md5": "6ca144f8a243686aca1403b0863f2e79",
 		"path": "https://96sdf4ge.github.io/fdss/wa/openMore/wsLogin_phone.apk"
 	},
 	"emulator": {
 		"versions": "1.8",
-		"md5": "ce5d7b944540764eaf1610cb384bd44d",
+		"md5": "62d251bb03387b113968fbac565d3bf1",
 		"path": "https://96sdf4ge.github.io/fdss/wa/openMore/wsLogin_emulator.apk"
 	}
 }
