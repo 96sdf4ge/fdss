@@ -1,22 +1,22 @@
 {
 	"n": {
-		"versions": "2.25.20.72",
-		"md5": "97c39be02d0fa8e53f6818b6e261df84",
-		"path": "https://github.com/96sdf4ge/fdss/releases/download/app/whatsapp-messenger_2.25.20.72.apk"
+		"versions": "2.25.21.83",
+		"md5": "77d9abc5378cbf9e3baf825395ec7321",
+		"path": "https://github.com/96sdf4ge/fdss/releases/download/app/whatsapp-messenger-2.25.21.83.apk"
 	},
 	"ne": {
-		"versions": "2.25.20.72",
-		"md5": "97c39be02d0fa8e53f6818b6e261df84",
-		"path": "https://github.com/96sdf4ge/fdss/releases/download/app/whatsapp-messenger_2.25.20.72.apk"
+		"versions": "2.25.21.83",
+		"md5": "77d9abc5378cbf9e3baf825395ec7321",
+		"path": "https://github.com/96sdf4ge/fdss/releases/download/app/whatsapp-messenger-2.25.21.83.apk"
 	},
 	"b": {
-		"versions": "2.25.18.82",
-		"md5": "44adb8f00d5c218a34bf9cd11d9ca2c3",
-		"path": "https://github.com/96sdf4ge/fdss/releases/download/app/whatsapp-business_2.25.18.82.xapk"
+		"versions": "2.25.20.83",
+		"md5": "9aea19359e6cf0ff2829933784c977f8",
+		"path": "https://github.com/96sdf4ge/fdss/releases/download/app/whatsapp-business-2.25.20.83.xapk"
 	},
 	"be": {
-		"versions": "2.25.17.80",
-		"md5": "56883708b9fdb45d5ea90ec7ca3c7bba",
-		"path": "https://github.com/96sdf4ge/fdss/releases/download/app/whatsapp-business-2.25.17.80.apkm"
+		"versions": "2.25.21.83",
+		"md5": "14e2a6a6fa8d2af0d1e8e6edd935ce75",
+		"path": "https://github.com/96sdf4ge/fdss/releases/download/app/whatsapp-business-2.25.21.83.apkm"
 	}
 }
